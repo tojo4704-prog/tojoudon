@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tojo4704-prog.github.io/tojoudon/sitemap.xml
